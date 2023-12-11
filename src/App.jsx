@@ -1,10 +1,9 @@
 import React from 'react'
+import Routing from './router/Routing'
 
 const App = () => {
   return (
-    <div>
-      selamlar
-    </div>
+    <Routing/>
   )
 }
 
