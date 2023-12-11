@@ -1,9 +1,9 @@
-import React from 'react'
+import Books from "../components/Books/Books"
 
 const Home = () => {
   return (
-    <div>
-      Home
+    <div className='border border-black'>
+        <Books/>
     </div>
   )
 }
